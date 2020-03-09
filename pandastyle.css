@@ -17,6 +17,8 @@ body
     margin: 0px auto;
     background-color: white;
     padding: 1px 40px 40px 40px;
+    border-left: solid 25px  pink;
+    border-right: solid 25px  pink;
 }
 
 h1{
