@@ -18,7 +18,7 @@ body
     background-color: white;
     padding: 1px 40px 40px 40px;
     border-left: solid 25px  pink;
-    border-right: solid 25px  pink;
+    border-right: solid 25px  pink;    
 }
 
 h1{
@@ -27,4 +27,9 @@ h1{
     background: #c9bcff;
     line-height: 80px;
     padding: 20px;
+}
+
+p{
+    background: #39de98;
+    padding: 25px;
 }
